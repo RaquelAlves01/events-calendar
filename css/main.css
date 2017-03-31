@@ -1,0 +1,47 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+thead th {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+tbody th,
+tbody td {
+  border: 1px solid #ccc;
+}
+
+.rows {
+  height: 10em;
+}
+
+.border-grey {
+  border: 1px solid #666;
+  color: #333;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+}
+
+.border-red {
+
+  border: 1px solid #b92828;
+  color: #991919;
+  border-radius: 8px;
+  background-color: #f2bcbc;
+}
+
+.border-green {
+
+  border: 1px solid #6b7e54;
+  color: #51603f;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+}
+
+.border-blue {
+  border: 1px solid #1d38da;
+  color: #38448e;
+  border-radius: 8px;
+  background-color: #d2d6f0;
+}
